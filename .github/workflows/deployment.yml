@@ -1,4 +1,4 @@
-name: Deploy Project
+name: Deployment Projects
 on:  push
 jobs:
   test:
